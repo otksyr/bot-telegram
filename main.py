@@ -116,7 +116,7 @@ while 1:
 
         msg_log = msg_temp
         print('bot working')
-        time.sleep(5)
+        time.sleep(20)
     except Exception as e:
         print(f'[   E R R O R   ]\n{e}\nScript ignored the error and keep running.')
-        time.sleep(5)
+        time.sleep(20)
